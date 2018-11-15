@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "668586077876",
+    "firebase_url": "https://aadhar-pe.firebaseio.com",
+    "project_id": "aadhar-pe",
+    "storage_bucket": "aadhar-pe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668586077876:android:4dd1a446ba207def",
+        "android_client_info": {
+          "package_name": "xyz.nvrsettle.bobsmartaadhar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668586077876-71c99rks3ur0ds0541g3qbfluuejeam5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "xyz.nvrsettle.bobsmartaadhar",
+            "certificate_hash": "3fd652e81239783238de81c30f6dae64b7272a49"
+          }
+        },
+        {
+          "client_id": "668586077876-s404emhen57g59vsp9u56rsugggfmvct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjw5w3epQ_22QulgD-kikLwjaxhHJFNoI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668586077876-s404emhen57g59vsp9u56rsugggfmvct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
